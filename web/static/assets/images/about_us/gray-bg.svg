@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="679px" viewBox="0 0 1440 679" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Shapes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="679"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="upsidedown" transform="translate(0.000000, -3241.000000)">
+            <g id="Newsletter-section" transform="translate(0.000000, 3241.000000)">
+                <g id="Shapes">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle-16" fill="#F5F5FA" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-19" fill="#2DFA13" opacity="0.200000003" mask="url(#mask-2)" x="-50" y="569" width="177" height="177" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-6" fill="#2017EE" opacity="0.200000003" mask="url(#mask-2)" x="90" y="466" width="142" height="142" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy" fill="#EF5F0A" opacity="0.200000003" mask="url(#mask-2)" x="1329" y="-74" width="148" height="148" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-2" fill="#FFEE00" opacity="0.200000003" mask="url(#mask-2)" x="1285" y="180" width="118" height="118" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-7" fill="#15DBFF" opacity="0.200000003" mask="url(#mask-2)" x="1238" y="484" width="171" height="171" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-8" fill="#0EFC0E" opacity="0.200000003" mask="url(#mask-2)" x="1344" y="594" width="171" height="171" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-5" fill="#150BF3" opacity="0.200000003" mask="url(#mask-2)" x="1378" y="265" width="75" height="75" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-3" fill="#1BCB2C" opacity="0.200000003" mask="url(#mask-2)" x="983" y="-102" width="230" height="230" rx="8"></rect>
+                    <rect id="Rectangle-19-Copy-4" fill="#EB1BDE" opacity="0.200000003" mask="url(#mask-2)" x="1111" y="74" width="139" height="139" rx="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

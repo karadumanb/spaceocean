@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Mask Copy 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="261.364433 497.497214 267.653891 486 276.215825 494.791987 281.910156 507.641815 258.089844 507.641815"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Template_white" transform="translate(-687.000000, -643.000000)">
+            <g id="Header" transform="translate(429.000000, 157.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask-Copy-14" fill="#283593" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

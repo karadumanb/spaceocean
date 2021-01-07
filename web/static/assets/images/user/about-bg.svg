@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1184px" height="486px" viewBox="0 0 1184 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34.5722814,291.869594 C30.1875712,264.60925 23.0779868,220.40799 18.6926278,193.143613 L8.15345917,127.620158 C3.76885768,100.36049 22.5486227,76.7944717 50.1004525,74.9839033 L1126.61815,4.24054634 C1154.16944,2.43001366 1171.61823,22.8157527 1165.59544,49.7540633 L1093.06994,374.140794 C1087.04521,401.087748 1059.80051,423.988446 1032.22601,425.290519 L113.326129,468.681115 C85.7476784,469.983373 59.8362256,448.938995 55.4511136,421.676153 L34.5722814,291.869594 Z" id="path-1"></path>
+        <pattern id="pattern-2" width="24" height="24" x="-23.7855641" y="-23.0377131" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.5,0.5)"></use>
+        </pattern>
+        <image id="image-3" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAAA4ZVhJZk1NACoAAAAIAAGHaQAEAAAAAQAAABoAAAAAAAKgAgAEAAAAAQAAADCgAwAEAAAAAQAAADAAAAAA+P9ONgAAAUVJREFUaAXt2NsNgzAMBdAGMQxirKpjVYzFOmkuIkhAgDxquJaSnwg+7B47rRqbruvsyy1jzDCO48ft0zPe5S5rren7/uv2t48hFb/1CZDMJX25vRiBIiDOHG9CSMVvURkEB0QqiWR8lOq2dvtu//M4mbnyahETQDNiAWhFrAAaETuANkQQoAlxCNCCOAVoQFwC2BFRAGZENIAVkQRgRCQD2BBZACZENoAFUQRgQBQDHkfgRoY7LD5IyXrqZtfM04PiTqAI81Rj8IXAXVg6fnNHEklEg2ppRtS5kD/v2x3fCbfEh1t1LrStfOjZdUJs7rT8fEomAUoq/gKQTOK7IoFYATQidgBtiCBAE+IQoAVxCtCAuASwI6IAzIhoACsiCcCISAawIbIATIhsAAuiCMCAKAY8jsBf3DoXcm2ocyGcxYsVKtIP2M6dqRUellgAAAAASUVORK5CYII="></image>
+        <path d="M10.3578455,270.907307 C5.97313532,243.646963 -1.13644902,199.445704 -5.52180804,172.181326 L-16.0609767,106.657871 C-20.4455782,79.3982029 -1.66581322,55.8321847 25.8860167,54.0216163 L1102.40372,-16.7217406 C1129.955,-18.5322733 1147.4038,1.85346572 1141.381,28.7917763 L1068.8555,353.178508 C1062.83078,380.125462 1035.58608,403.026159 1008.01157,404.328232 L89.1116927,447.718828 C61.5332426,449.021086 35.6217897,427.976708 31.2366777,400.713866 L10.3578455,270.907307 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Template_white" transform="translate(-119.000000, -768.000000)">
+            <g id="About" transform="translate(136.000000, 785.000000)">
+                <g id="Group-2">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask-Copy" fill="url(#pattern-2)" xlink:href="#path-1"></use>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask-Copy-2" fill="#283593" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

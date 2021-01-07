@@ -1,0 +1,6 @@
+.about-us-section .main-layout, .karadumanbaturay-section .main-layout, .tanyolfurkan-section .main-layout {
+  margin-top: 0;
+}
+.about-us-section main, .karadumanbaturay-section main, .tanyolfurkan-section main {
+  padding: 0;
+}

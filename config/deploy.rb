@@ -2,7 +2,7 @@
 lock "~> 3.14.1"
 
 set :application, "spaceocean"
-set :repo_url, "git@github.com:karadumanb/spaceocean.git"
+set :repo_url, "https://github.com/karadumanb/spaceocean.git"
 
 # Deploy to the user's home directory
 set :deploy_to, "/home/deploy/#{fetch :application}"

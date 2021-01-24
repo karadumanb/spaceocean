@@ -11,6 +11,8 @@ require 'capistrano/rbenv'
 set :rbenv_type, :user
 set :rbenv_ruby, '2.7.2'
 
+set :rbenv_prefix, "RBENV_ROOT=/ /bin/rbenv exec"
+
 # Load the SCM plugin appropriate to your project:
 #
 # require "capistrano/scm/hg"
